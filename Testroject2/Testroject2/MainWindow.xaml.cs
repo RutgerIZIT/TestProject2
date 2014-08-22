@@ -24,5 +24,8 @@ namespace Testroject2
         {
             InitializeComponent();
         }
+
+        public void testMethod()
+        { }
     }
 }
