@@ -27,5 +27,8 @@ namespace Testroject2
 
         public void testMethod()
         { }
+
+        public void test2()
+        { }
     }
 }
